@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IHLP6767GZER220M11'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IHLP6767GZER220M11" (!) = "", "INDPM172172X700N", "Inductors Precision Moulded", "70-IHLP6767GZER220M1", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/IHLP6767GZER220M11?qs=XqCRimLFoQvgydtKZ%2FhPIA%3D%3D", "Inductor IHLP SMD 6767 22uH", "", "7 mm"
+END_PART
+
+END.

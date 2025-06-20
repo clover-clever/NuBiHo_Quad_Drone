@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IHLP6767GZER220M11"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-03-08-02:43:20)
+    (mountForm default
+        (footprintRef "INDPM172172X700N")
+        (spec "System")
+    )
+)

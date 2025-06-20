@@ -1,0 +1,39 @@
+PCBNEW-LibModule-V1  2025-05-25 15:47:10
+# encoding utf-8
+Units mm
+$INDEX
+XAL40XX
+$EndINDEX
+$MODULE XAL40XX
+Po 0 0 0 15 68332d6e 00000000 ~~
+Li XAL40XX
+Cd XAL40XX
+Kw Inductor
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 0 0 1.27 1.27 0 0.254 N V 21 N "L**"
+T1 0 0 1.27 1.27 0 0.254 N I 21 N "XAL40XX"
+DS -2 2 2 2 0.2 24
+DS 2 2 2 -2 0.2 24
+DS 2 -2 -2 -2 0.2 24
+DS -2 -2 -2 2 0.2 24
+DS -2 -2 2 -2 0.1 21
+DS 2 -2 2 2 0.1 21
+DS 2 2 -2 2 0.1 21
+DS -2 2 -2 -2 0.1 21
+$PAD
+Po -1.185 0
+Sh "1" R 0.98 3.4 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.185 0
+Sh "2" R 0.98 3.4 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE XAL40XX
+$EndLIBRARY

@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=IHLP6767GZER220M11
+PartCategory=Inductor
+PackageCategory=Inductors Precision Moulded
+PinCount=2
+Version=1.1
+Released=2020-03-08 02:43:20
+Downloaded=2025-05-25 15:47:34
+3D=Y

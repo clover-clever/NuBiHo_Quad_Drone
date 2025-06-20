@@ -1,0 +1,16 @@
+.XAL4030-332MEC :1 ;COILCRAFT - XAL4030-332MEC - INDUCTOR, 3.3UH, 6.6A, 20%, PWR, 43MHZ
+XAL40XX
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN XAL4030-332MEC
+~!Mouser Part Number (994-XAL4030-332MEC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL4030-332MEC?qs=zCSbvcPd3paCl%252Bgj18yZeg%3D%3D)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (XAL4030-332MEC)
+~!Link Datasheet (https://www.coilcraft.com/pdfs/xal4000.pdf)
+~!Height (-)
+~!3D_Model (XAL4030-332MEC)
+XAL4030-332MEC
+1.1!U 2.1!U 

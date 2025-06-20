@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "XAL40XX"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "XAL40XX")
+        (spec "default")
+    )
+)

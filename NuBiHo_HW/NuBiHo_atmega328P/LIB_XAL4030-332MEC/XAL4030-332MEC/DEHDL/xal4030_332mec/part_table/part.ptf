@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XAL4030_332MEC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "COILCRAFT", "XAL4030-332MEC" (!) = "", "XAL40XX", "Other", "994-XAL4030-332MEC", "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL4030-332MEC?qs=zCSbvcPd3paCl%252Bgj18yZeg%3D%3D", "COILCRAFT - XAL4030-332MEC - INDUCTOR, 3.3UH, 6.6A, 20%, PWR, 43MHZ", "https://www.coilcraft.com/pdfs/xal4000.pdf"
+END_PART
+
+END.

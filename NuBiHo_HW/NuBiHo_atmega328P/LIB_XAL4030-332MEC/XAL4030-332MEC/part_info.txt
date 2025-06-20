@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XAL4030-332MEC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2019-07-25 08:33:54
+Downloaded=2025-05-25 15:47:10
+3D=Y
